@@ -1,0 +1,10 @@
+target:
+  model: llama3.2
+  ollama_url: "http://localhost:11434/api/generate"
+
+patches:
+  prompt_level: false
+  output_level: true
+
+baseline_report: "results/baseline.report.jsonl"
+output_path: "results/final-output-patched.jsonl"
