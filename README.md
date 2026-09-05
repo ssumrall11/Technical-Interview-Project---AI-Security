@@ -1,6 +1,8 @@
 
 # Technical-Interview-Project---AI-Security Setup Directions
 
+<br>
+
 Step 1: Install Ollama and pull the model
 
 ```bash
