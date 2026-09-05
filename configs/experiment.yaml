@@ -3,8 +3,8 @@ target:
   ollama_url: "http://localhost:11434/api/generate"
 
 patches:
-  prompt_level: false
+  prompt_level: true
   output_level: true
 
 baseline_report: "results/baseline.report.jsonl"
-output_path: "results/final-output-patched.jsonl"
+output_path: "results/final-po-patched.jsonl"
