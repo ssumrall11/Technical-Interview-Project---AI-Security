@@ -1,0 +1,1 @@
+{"generators": {"ollama": {"OllamaGenerator": {"host": "http://localhost:5001"}}}}
