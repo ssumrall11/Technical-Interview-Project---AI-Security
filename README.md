@@ -4,7 +4,6 @@
 <br>
 
 Step 1: Install Ollama and pull the model
-
 ```bash
 brew install ollama
 brew services start ollama
