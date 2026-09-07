@@ -1,1 +1,1 @@
-![DESIGN OF EXPERIMENTAL PIPELINE](/Users/scsumrall/Documents/DESIGN.png)
+![](/Users/scsumrall/Technical-Interview-Project---AI-Security/images/DESIGN.png)
